@@ -5,8 +5,8 @@ dependencies:
     - numpy
     - python
     - pandas
-    - plotly
     - qgrid
     - pip
     - pip:
       - relatively
+      - plotly==3.0.0rc10

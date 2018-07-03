@@ -19,7 +19,7 @@ Depends on, but doesn't define in `setup.py`:
 
 + `numpy`
 + `pandas`
-+ `plotly`
++ `plotly>=3.0.0rc10`
 
 # Usage
 
