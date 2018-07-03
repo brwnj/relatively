@@ -1,0 +1,679 @@
+superkingdom	phylum	class	order	sample1	sample2	sample3	sample4	sample5
+Archaea	Candidatus Bathyarchaeota	NA	NA	123.0	120.0	486.0	818.0	3253.0
+Archaea	Candidatus Lokiarchaeota	NA	NA	4.0	1.0	9.0	2.0	5.0
+Archaea	Candidatus Micrarchaeota	NA	NA	9.0	13.0	9.0	19.0	14.0
+Archaea	Candidatus Nanohaloarchaeota	NA	Nanohaloarchaea	1.0	2.0	2.0	1.0	0
+Archaea	Candidatus Odinarchaeota	NA	NA	2.0	0	2.0	3.0	6.0
+Archaea	Candidatus Thorarchaeota	NA	NA	8.0	9.0	9.0	14.0	23.0
+Archaea	Candidatus Woesearchaeota	NA	NA	4.0	2.0	11.0	4.0	28.0
+Archaea	Crenarchaeota	Acidilobales	Thermoprotei	2.0	4.0	3.0	5.0	1.0
+Archaea	Crenarchaeota	Desulfurococcales	Thermoprotei	5.0	3.0	1.0	4.0	18.0
+Archaea	Crenarchaeota	NA	NA	60.0	74.0	60.0	43.0	9.0
+Archaea	Crenarchaeota	Sulfolobales	Thermoprotei	10.0	5.0	23.0	4.0	11.0
+Archaea	Crenarchaeota	Thermoproteales	Thermoprotei	8.0	11.0	14.0	13.0	20.0
+Archaea	Euryarchaeota	Archaeoglobales	Archaeoglobi	6.0	8.0	12.0	10.0	10.0
+Archaea	Euryarchaeota	Candidatus Altiarchaeales	NA	6.0	16.0	7.0	23.0	31.0
+Archaea	Euryarchaeota	Halobacteriales	Halobacteria	25.0	35.0	27.0	25.0	26.0
+Archaea	Euryarchaeota	Haloferacales	Halobacteria	41.0	41.0	24.0	51.0	37.0
+Archaea	Euryarchaeota	Methanobacteriales	Methanobacteria	22.0	25.0	53.0	33.0	598.0
+Archaea	Euryarchaeota	Methanocellales	Methanomicrobia	10.0	4.0	4.0	20.0	37.0
+Archaea	Euryarchaeota	Methanococcales	Methanococci	10.0	9.0	7.0	11.0	14.0
+Archaea	Euryarchaeota	Methanomassiliicoccales	Thermoplasmata	7.0	12.0	15.0	6.0	40.0
+Archaea	Euryarchaeota	Methanomicrobiales	Methanomicrobia	72.0	50.0	85.0	57.0	165.0
+Archaea	Euryarchaeota	Methanosarcinales	Methanomicrobia	116.0	194.0	188.0	193.0	2078.0
+Archaea	Euryarchaeota	NA	Hadesarchaea	4.0	0	12.0	4.0	27.0
+Archaea	Euryarchaeota	NA	Halobacteria	8.0	2.0	13.0	8.0	1.0
+Archaea	Euryarchaeota	NA	Methanomicrobia	5.0	9.0	11.0	13.0	27.0
+Archaea	Euryarchaeota	NA	NA	63.0	50.0	93.0	84.0	358.0
+Archaea	Euryarchaeota	NA	Theionarchaea	4.0	6.0	7.0	15.0	5.0
+Archaea	Euryarchaeota	Natrialbales	Halobacteria	14.0	13.0	24.0	20.0	8.0
+Archaea	Euryarchaeota	Thermococcales	Thermococci	35.0	19.0	65.0	41.0	58.0
+Archaea	Euryarchaeota	Thermoplasmatales	Thermoplasmata	13.0	20.0	26.0	19.0	53.0
+Archaea	NA	NA	NA	149.0	120.0	189.0	243.0	463.0
+Archaea	Thaumarchaeota	Cenarchaeales	NA	9.0	2.0	6.0	3.0	0
+Archaea	Thaumarchaeota	NA	NA	727.0	167.0	674.0	175.0	45.0
+Archaea	Thaumarchaeota	Nitrosopumilales	NA	34.0	29.0	40.0	21.0	13.0
+Archaea	Thaumarchaeota	Nitrososphaerales	Nitrososphaeria	1334.0	494.0	1245.0	575.0	76.0
+Bacteria	Acidobacteria	Acidobacteriales	Acidobacteriia	2880.0	2460.0	4348.0	6843.0	813.0
+Bacteria	Acidobacteria	Holophagales	Holophagae	77.0	344.0	325.0	648.0	76.0
+Bacteria	Acidobacteria	NA	Blastocatellia	1072.0	1279.0	852.0	2688.0	41.0
+Bacteria	Acidobacteria	NA	NA	20777.0	21196.0	23457.0	36471.0	1922.0
+Bacteria	Acidobacteria	Solibacterales	Solibacteres	6150.0	4302.0	10134.0	11531.0	1984.0
+Bacteria	Actinobacteria	Acidimicrobiales	Acidimicrobiia	498.0	509.0	568.0	574.0	56.0
+Bacteria	Actinobacteria	Acidothermales	Actinobacteria	32.0	21.0	37.0	34.0	4.0
+Bacteria	Actinobacteria	Actinomycetales	Actinobacteria	114.0	170.0	229.0	144.0	2895.0
+Bacteria	Actinobacteria	Actinopolysporales	Actinobacteria	23.0	11.0	17.0	21.0	6.0
+Bacteria	Actinobacteria	Bifidobacteriales	Actinobacteria	84.0	69.0	114.0	139.0	94.0
+Bacteria	Actinobacteria	Candidatus Actinomarinales	Actinobacteria	9.0	8.0	16.0	9.0	0
+Bacteria	Actinobacteria	Catenulisporales	Actinobacteria	77.0	84.0	85.0	55.0	30.0
+Bacteria	Actinobacteria	Coriobacteriales	Coriobacteriia	83.0	61.0	139.0	147.0	360.0
+Bacteria	Actinobacteria	Corynebacteriales	Actinobacteria	6007.0	4949.0	8782.0	17264.0	17207.0
+Bacteria	Actinobacteria	Eggerthellales	Coriobacteriia	35.0	20.0	54.0	38.0	73.0
+Bacteria	Actinobacteria	Frankiales	Actinobacteria	375.0	310.0	405.0	361.0	77.0
+Bacteria	Actinobacteria	Gaiellales	Rubrobacteria	1287.0	656.0	2062.0	488.0	25.0
+Bacteria	Actinobacteria	Geodermatophilales	Actinobacteria	153.0	193.0	248.0	233.0	37.0
+Bacteria	Actinobacteria	Glycomycetales	Actinobacteria	22.0	41.0	73.0	36.0	15.0
+Bacteria	Actinobacteria	Jiangellales	Actinobacteria	48.0	43.0	50.0	54.0	8.0
+Bacteria	Actinobacteria	Kineosporiales	Actinobacteria	46.0	84.0	98.0	63.0	12.0
+Bacteria	Actinobacteria	Micrococcales	Actinobacteria	2409.0	2331.0	3036.0	2203.0	948.0
+Bacteria	Actinobacteria	Micromonosporales	Actinobacteria	546.0	411.0	684.0	521.0	295.0
+Bacteria	Actinobacteria	NA	Acidimicrobiia	51.0	61.0	73.0	70.0	15.0
+Bacteria	Actinobacteria	NA	Actinobacteria	1877.0	1668.0	2792.0	1946.0	702.0
+Bacteria	Actinobacteria	NA	Coriobacteriia	3.0	3.0	5.0	0	9.0
+Bacteria	Actinobacteria	NA	NA	10958.0	7412.0	15195.0	6403.0	1608.0
+Bacteria	Actinobacteria	NA	Thermoleophilia	20.0	28.0	27.0	10.0	7.0
+Bacteria	Actinobacteria	Nakamurellales	Actinobacteria	72.0	113.0	96.0	153.0	16.0
+Bacteria	Actinobacteria	Nitriliruptorales	Nitriliruptoria	46.0	59.0	39.0	26.0	13.0
+Bacteria	Actinobacteria	Propionibacteriales	Actinobacteria	707.0	621.0	998.0	821.0	416.0
+Bacteria	Actinobacteria	Pseudonocardiales	Actinobacteria	819.0	882.0	1148.0	1119.0	656.0
+Bacteria	Actinobacteria	Rubrobacterales	Rubrobacteria	79.0	71.0	137.0	94.0	22.0
+Bacteria	Actinobacteria	Solirubrobacterales	Thermoleophilia	3159.0	2516.0	3594.0	1814.0	265.0
+Bacteria	Actinobacteria	Streptomycetales	Actinobacteria	1443.0	1075.0	1650.0	1674.0	1212.0
+Bacteria	Actinobacteria	Streptosporangiales	Actinobacteria	561.0	417.0	709.0	566.0	200.0
+Bacteria	Actinobacteria	Thermoleophilales	Thermoleophilia	362.0	215.0	330.0	109.0	30.0
+Bacteria	Aquificae	Aquificales	Aquificae	71.0	67.0	111.0	63.0	50.0
+Bacteria	Aquificae	Desulfurobacteriales	Aquificae	8.0	10.0	7.0	11.0	23.0
+Bacteria	Armatimonadetes	Chthonomonadales	Chthonomonadetes	108.0	204.0	167.0	276.0	220.0
+Bacteria	Armatimonadetes	Fimbriimonadales	Fimbriimonadia	67.0	72.0	73.0	113.0	24.0
+Bacteria	Armatimonadetes	NA	NA	404.0	585.0	475.0	683.0	547.0
+Bacteria	Bacteroidetes	Bacteroidales	Bacteroidia	447.0	1518.0	2032.0	5708.0	23904.0
+Bacteria	Bacteroidetes	Bacteroidetes Order II. Incertae sedis	NA	92.0	74.0	114.0	122.0	62.0
+Bacteria	Bacteroidetes	Chitinophagales	Chitinophagia	1625.0	2705.0	3989.0	4529.0	2343.0
+Bacteria	Bacteroidetes	Cytophagales	Cytophagia	1220.0	1508.0	2887.0	3572.0	9718.0
+Bacteria	Bacteroidetes	Flavobacteriales	Flavobacteriia	1370.0	1537.0	2356.0	3624.0	8942.0
+Bacteria	Bacteroidetes	Marinilabiliales	Bacteroidia	126.0	797.0	879.0	2966.0	9996.0
+Bacteria	Bacteroidetes	NA	Bacteroidia	11.0	48.0	51.0	115.0	676.0
+Bacteria	Bacteroidetes	NA	Flavobacteriia	71.0	59.0	120.0	142.0	342.0
+Bacteria	Bacteroidetes	NA	NA	2138.0	5127.0	6716.0	15908.0	49712.0
+Bacteria	Bacteroidetes	NA	Sphingobacteriia	6.0	16.0	102.0	67.0	16.0
+Bacteria	Bacteroidetes	Saprospirales	Saprospiria	49.0	133.0	214.0	239.0	271.0
+Bacteria	Bacteroidetes	Sphingobacteriales	Sphingobacteriia	1347.0	3283.0	3489.0	3604.0	3784.0
+Bacteria	Balneolaeota	Balneolales	Balneolia	44.0	39.0	58.0	78.0	113.0
+Bacteria	Caldiserica	Caldisericales	Caldisericia	4.0	12.0	4.0	11.0	302.0
+Bacteria	Calditrichaeota	Calditrichales	Calditrichae	29.0	32.0	32.0	65.0	51.0
+Bacteria	Candidatus Abawacabacteria	NA	NA	1.0	3.0	12.0	5.0	2.0
+Bacteria	Candidatus Acetothermia	NA	NA	24.0	17.0	23.0	32.0	12.0
+Bacteria	Candidatus Adlerbacteria	NA	NA	15.0	8.0	31.0	19.0	15.0
+Bacteria	Candidatus Amesbacteria	NA	NA	12.0	6.0	30.0	17.0	16.0
+Bacteria	Candidatus Aminicenantes	NA	NA	137.0	111.0	144.0	175.0	135.0
+Bacteria	Candidatus Atribacteria	NA	NA	9.0	21.0	18.0	31.0	116.0
+Bacteria	Candidatus Azambacteria	NA	NA	6.0	7.0	4.0	11.0	15.0
+Bacteria	Candidatus Beckwithbacteria	NA	NA	5.0	2.0	5.0	1.0	12.0
+Bacteria	Candidatus Berkelbacteria	NA	NA	18.0	33.0	29.0	35.0	114.0
+Bacteria	Candidatus Blackburnbacteria	NA	NA	4.0	5.0	4.0	21.0	14.0
+Bacteria	Candidatus Buchananbacteria	NA	NA	10.0	18.0	5.0	13.0	34.0
+Bacteria	Candidatus Campbellbacteria	NA	NA	2.0	3.0	0	10.0	16.0
+Bacteria	Candidatus Chisholmbacteria	NA	NA	3.0	6.0	12.0	9.0	1.0
+Bacteria	Candidatus Cloacimonetes	NA	NA	30.0	45.0	49.0	62.0	118.0
+Bacteria	Candidatus Coatesbacteria	NA	NA	4.0	4.0	5.0	10.0	17.0
+Bacteria	Candidatus Collierbacteria	NA	NA	14.0	12.0	6.0	4.0	28.0
+Bacteria	Candidatus Colwellbacteria	NA	NA	2.0	2.0	3.0	4.0	6.0
+Bacteria	Candidatus Curtissbacteria	NA	NA	17.0	15.0	19.0	31.0	30.0
+Bacteria	Candidatus Dadabacteria	NA	NA	68.0	45.0	94.0	81.0	57.0
+Bacteria	Candidatus Daviesbacteria	NA	NA	50.0	42.0	38.0	34.0	49.0
+Bacteria	Candidatus Delongbacteria	NA	NA	2.0	7.0	3.0	7.0	26.0
+Bacteria	Candidatus Desantisbacteria	NA	NA	16.0	19.0	13.0	49.0	91.0
+Bacteria	Candidatus Doudnabacteria	NA	NA	34.0	56.0	62.0	84.0	42.0
+Bacteria	Candidatus Edwardsbacteria	NA	NA	2.0	21.0	19.0	25.0	51.0
+Bacteria	Candidatus Eisenbacteria	NA	NA	92.0	164.0	86.0	171.0	16.0
+Bacteria	Candidatus Falkowbacteria	NA	NA	18.0	68.0	20.0	55.0	691.0
+Bacteria	Candidatus Firestonebacteria	NA	NA	13.0	45.0	18.0	43.0	120.0
+Bacteria	Candidatus Fischerbacteria	NA	NA	16.0	20.0	23.0	21.0	23.0
+Bacteria	Candidatus Fraserbacteria	NA	NA	11.0	9.0	9.0	24.0	11.0
+Bacteria	Candidatus Giovannonibacteria	NA	NA	39.0	62.0	57.0	24.0	20.0
+Bacteria	Candidatus Glassbacteria	NA	NA	23.0	47.0	26.0	46.0	52.0
+Bacteria	Candidatus Gottesmanbacteria	NA	NA	48.0	47.0	56.0	54.0	95.0
+Bacteria	Candidatus Gracilibacteria	NA	NA	1.0	497.0	23.0	7.0	6.0
+Bacteria	Candidatus Handelsmanbacteria	NA	NA	135.0	118.0	128.0	158.0	67.0
+Bacteria	Candidatus Harrisonbacteria	NA	NA	5.0	8.0	4.0	7.0	16.0
+Bacteria	Candidatus Hydrogenedentes	NA	NA	13.0	7.0	10.0	19.0	7.0
+Bacteria	Candidatus Jorgensenbacteria	NA	NA	9.0	2.0	19.0	3.0	32.0
+Bacteria	Candidatus Kaiserbacteria	NA	NA	65.0	60.0	95.0	177.0	92.0
+Bacteria	Candidatus Kerfeldbacteria	NA	NA	11.0	4.0	13.0	3.0	8.0
+Bacteria	Candidatus Komeilibacteria	NA	NA	5.0	4.0	10.0	9.0	19.0
+Bacteria	Candidatus Kryptonia	NA	NA	44.0	43.0	41.0	75.0	23.0
+Bacteria	Candidatus Kuenenbacteria	NA	NA	3.0	34.0	5.0	10.0	17.0
+Bacteria	Candidatus Latescibacteria	NA	NA	53.0	41.0	40.0	58.0	46.0
+Bacteria	Candidatus Levybacteria	NA	NA	33.0	35.0	59.0	55.0	87.0
+Bacteria	Candidatus Lindowbacteria	NA	NA	18.0	33.0	32.0	58.0	8.0
+Bacteria	Candidatus Liptonbacteria	NA	NA	10.0	13.0	22.0	29.0	3.0
+Bacteria	Candidatus Lloydbacteria	NA	NA	26.0	8.0	26.0	37.0	37.0
+Bacteria	Candidatus Magasanikbacteria	NA	NA	29.0	53.0	33.0	59.0	149.0
+Bacteria	Candidatus Margulisbacteria	NA	NA	12.0	7.0	27.0	17.0	33.0
+Bacteria	Candidatus Marinimicrobia	NA	NA	25.0	33.0	54.0	54.0	106.0
+Bacteria	Candidatus Microgenomates	NA	NA	4.0	8.0	10.0	8.0	20.0
+Bacteria	Candidatus Moranbacteria	NA	NA	68.0	77.0	130.0	105.0	136.0
+Bacteria	Candidatus Nealsonbacteria	NA	NA	4.0	7.0	6.0	6.0	19.0
+Bacteria	Candidatus Niyogibacteria	NA	NA	1.0	0	0	3.0	37.0
+Bacteria	Candidatus Nomurabacteria	NA	NA	55.0	124.0	56.0	433.0	2678.0
+Bacteria	Candidatus Omnitrophica	NA	NA	513.0	578.0	531.0	763.0	498.0
+Bacteria	Candidatus Pacebacteria	NA	NA	7.0	1.0	0	5.0	5.0
+Bacteria	Candidatus Parcubacteria	NA	NA	16.0	34.0	36.0	59.0	440.0
+Bacteria	Candidatus Peregrinibacteria	NA	Candidatus Peribacteria	19.0	21.0	35.0	32.0	12.0
+Bacteria	Candidatus Peregrinibacteria	NA	NA	54.0	34.0	35.0	40.0	37.0
+Bacteria	Candidatus Poribacteria	NA	NA	1.0	0	3.0	0	0
+Bacteria	Candidatus Portnoybacteria	NA	NA	2.0	8.0	2.0	6.0	18.0
+Bacteria	Candidatus Raymondbacteria	NA	NA	18.0	139.0	12.0	38.0	52.0
+Bacteria	Candidatus Riflebacteria	NA	NA	8.0	40.0	15.0	30.0	25.0
+Bacteria	Candidatus Roizmanbacteria	NA	NA	39.0	31.0	58.0	49.0	106.0
+Bacteria	Candidatus Rokubacteria	NA	NA	5769.0	1955.0	2835.0	2061.0	104.0
+Bacteria	Candidatus Ryanbacteria	NA	NA	11.0	11.0	23.0	6.0	9.0
+Bacteria	Candidatus Saccharibacteria	NA	NA	25.0	56.0	98.0	78.0	539.0
+Bacteria	Candidatus Schekmanbacteria	NA	NA	58.0	52.0	112.0	139.0	35.0
+Bacteria	Candidatus Shapirobacteria	NA	NA	3.0	3.0	7.0	7.0	91.0
+Bacteria	Candidatus Spechtbacteria	NA	NA	7.0	3.0	4.0	6.0	12.0
+Bacteria	Candidatus Staskawiczbacteria	NA	NA	13.0	20.0	29.0	30.0	46.0
+Bacteria	Candidatus Sungbacteria	NA	NA	16.0	13.0	19.0	24.0	10.0
+Bacteria	Candidatus Taylorbacteria	NA	NA	15.0	41.0	50.0	107.0	125.0
+Bacteria	Candidatus Tectomicrobia	NA	NA	491.0	433.0	1920.0	573.0	408.0
+Bacteria	Candidatus Terrybacteria	NA	NA	8.0	13.0	13.0	12.0	47.0
+Bacteria	Candidatus Uhrbacteria	NA	NA	28.0	36.0	53.0	60.0	88.0
+Bacteria	Candidatus Vogelbacteria	NA	NA	3.0	6.0	2.0	5.0	26.0
+Bacteria	Candidatus Wallbacteria	NA	NA	3.0	5.0	5.0	8.0	9.0
+Bacteria	Candidatus Wildermuthbacteria	NA	NA	12.0	5.0	9.0	6.0	11.0
+Bacteria	Candidatus Wirthbacteria	NA	NA	11.0	7.0	7.0	7.0	3.0
+Bacteria	Candidatus Woesebacteria	NA	NA	46.0	53.0	51.0	46.0	103.0
+Bacteria	Candidatus Wolfebacteria	NA	NA	1.0	5.0	12.0	18.0	66.0
+Bacteria	Candidatus Woykebacteria	NA	NA	9.0	14.0	9.0	18.0	8.0
+Bacteria	Candidatus Yanofskybacteria	NA	NA	50.0	35.0	53.0	88.0	48.0
+Bacteria	Candidatus Yonathbacteria	NA	NA	9.0	2.0	22.0	22.0	24.0
+Bacteria	Candidatus Zambryskibacteria	NA	NA	22.0	19.0	21.0	51.0	75.0
+Bacteria	Chlamydiae	Chlamydiales	Chlamydiia	1978.0	1717.0	3195.0	7634.0	5745.0
+Bacteria	Chlamydiae	NA	Chlamydiia	39.0	27.0	78.0	18.0	5.0
+Bacteria	Chlamydiae	NA	NA	15.0	23.0	31.0	18.0	13.0
+Bacteria	Chlamydiae	Parachlamydiales	Chlamydiia	122.0	68.0	223.0	109.0	26.0
+Bacteria	Chlorobi	Chlorobiales	Chlorobia	122.0	133.0	140.0	197.0	274.0
+Bacteria	Chlorobi	NA	NA	155.0	274.0	277.0	376.0	148.0
+Bacteria	Chloroflexi	Anaerolineales	Anaerolineae	659.0	558.0	1023.0	832.0	2680.0
+Bacteria	Chloroflexi	Ardenticatenales	Ardenticatenia	114.0	103.0	112.0	114.0	84.0
+Bacteria	Chloroflexi	Caldilineales	Caldilineae	76.0	143.0	286.0	146.0	63.0
+Bacteria	Chloroflexi	Chloroflexales	Chloroflexia	222.0	286.0	343.0	305.0	107.0
+Bacteria	Chloroflexi	Dehalococcoidales	Dehalococcoidia	143.0	66.0	239.0	172.0	265.0
+Bacteria	Chloroflexi	Herpetosiphonales	Chloroflexia	48.0	57.0	36.0	69.0	52.0
+Bacteria	Chloroflexi	Ktedonobacterales	Ktedonobacteria	276.0	291.0	485.0	668.0	79.0
+Bacteria	Chloroflexi	NA	Anaerolineae	476.0	678.0	862.0	954.0	1071.0
+Bacteria	Chloroflexi	NA	Dehalococcoidia	227.0	162.0	218.0	194.0	394.0
+Bacteria	Chloroflexi	NA	Ktedonobacteria	12.0	6.0	12.0	24.0	5.0
+Bacteria	Chloroflexi	NA	NA	6659.0	8556.0	11607.0	8532.0	5998.0
+Bacteria	Chloroflexi	NA	Thermomicrobia	45.0	28.0	77.0	51.0	16.0
+Bacteria	Chloroflexi	Sphaerobacterales	Thermomicrobia	167.0	155.0	203.0	166.0	61.0
+Bacteria	Chloroflexi	Thermoflexales	Thermoflexia	3.0	1.0	3.0	3.0	0
+Bacteria	Chloroflexi	Thermogemmatisporales	Ktedonobacteria	58.0	61.0	108.0	138.0	86.0
+Bacteria	Chloroflexi	Thermomicrobiales	Thermomicrobia	45.0	30.0	42.0	31.0	8.0
+Bacteria	Chrysiogenetes	Chrysiogenales	Chrysiogenetes	6.0	10.0	13.0	15.0	27.0
+Bacteria	Cyanobacteria	Chroococcales	NA	69.0	77.0	115.0	131.0	54.0
+Bacteria	Cyanobacteria	Chroococcidiopsidales	NA	12.0	10.0	26.0	20.0	6.0
+Bacteria	Cyanobacteria	Gloeobacterales	Gloeobacteria	21.0	35.0	46.0	50.0	14.0
+Bacteria	Cyanobacteria	Gloeoemargaritales	NA	11.0	4.0	21.0	6.0	0
+Bacteria	Cyanobacteria	NA	NA	435.0	385.0	613.0	757.0	126.0
+Bacteria	Cyanobacteria	Nostocales	NA	294.0	369.0	1677.0	512.0	241.0
+Bacteria	Cyanobacteria	Oscillatoriales	NA	250.0	284.0	388.0	397.0	273.0
+Bacteria	Cyanobacteria	Pleurocapsales	NA	20.0	45.0	39.0	42.0	20.0
+Bacteria	Cyanobacteria	Spirulinales	NA	11.0	11.0	9.0	15.0	9.0
+Bacteria	Cyanobacteria	Synechococcales	NA	362.0	288.0	433.0	494.0	411.0
+Bacteria	Deferribacteres	Deferribacterales	Deferribacteres	29.0	29.0	65.0	57.0	55.0
+Bacteria	Deinococcus-Thermus	Deinococcales	Deinococci	126.0	122.0	169.0	205.0	62.0
+Bacteria	Deinococcus-Thermus	NA	Deinococci	3.0	1.0	0	5.0	0
+Bacteria	Deinococcus-Thermus	Thermales	Deinococci	133.0	104.0	184.0	189.0	489.0
+Bacteria	Dictyoglomi	Dictyoglomales	Dictyoglomia	16.0	8.0	8.0	16.0	48.0
+Bacteria	Elusimicrobia	Elusimicrobiales	Elusimicrobia	1.0	4.0	11.0	12.0	9.0
+Bacteria	Elusimicrobia	Endomicrobiales	Endomicrobia	8.0	7.0	12.0	7.0	9.0
+Bacteria	Elusimicrobia	NA	NA	435.0	971.0	668.0	953.0	1063.0
+Bacteria	Fibrobacteres	Chitinispirillales	Chitinispirillia	11.0	71.0	31.0	99.0	26.0
+Bacteria	Fibrobacteres	Chitinivibrionales	Chitinivibrionia	1.0	5.0	2.0	12.0	10.0
+Bacteria	Fibrobacteres	Fibrobacterales	Fibrobacteria	25.0	25.0	49.0	21.0	43.0
+Bacteria	Fibrobacteres	NA	NA	8.0	4.0	18.0	1.0	4.0
+Bacteria	Firmicutes	Acidaminococcales	Negativicutes	26.0	23.0	35.0	40.0	77.0
+Bacteria	Firmicutes	Bacillales	Bacilli	31304.0	24794.0	44268.0	142213.0	108320.0
+Bacteria	Firmicutes	Clostridiales	Clostridia	9785.0	10275.0	18750.0	42813.0	51954.0
+Bacteria	Firmicutes	Erysipelotrichales	Erysipelotrichia	61.0	44.0	58.0	125.0	267.0
+Bacteria	Firmicutes	Halanaerobiales	Clostridia	49.0	60.0	79.0	54.0	168.0
+Bacteria	Firmicutes	Lactobacillales	Bacilli	4370.0	3452.0	6410.0	20586.0	13624.0
+Bacteria	Firmicutes	Limnochordales	Limnochordia	38.0	45.0	37.0	54.0	13.0
+Bacteria	Firmicutes	NA	Bacilli	2805.0	2427.0	4244.0	15251.0	10399.0
+Bacteria	Firmicutes	NA	Clostridia	70.0	92.0	125.0	121.0	392.0
+Bacteria	Firmicutes	NA	NA	325.0	373.0	638.0	1946.0	2529.0
+Bacteria	Firmicutes	NA	Negativicutes	5.0	0	4.0	6.0	12.0
+Bacteria	Firmicutes	NA	Tissierellia	19.0	24.0	24.0	48.0	81.0
+Bacteria	Firmicutes	Natranaerobiales	Clostridia	1.0	2.0	10.0	8.0	4.0
+Bacteria	Firmicutes	Selenomonadales	Negativicutes	175.0	202.0	311.0	847.0	1738.0
+Bacteria	Firmicutes	Thermoanaerobacterales	Clostridia	266.0	496.0	348.0	521.0	1574.0
+Bacteria	Firmicutes	Tissierellales	Tissierellia	36.0	62.0	66.0	160.0	286.0
+Bacteria	Firmicutes	Veillonellales	Negativicutes	49.0	64.0	84.0	90.0	333.0
+Bacteria	Fusobacteria	Fusobacteriales	Fusobacteriia	41.0	58.0	264.0	70.0	197.0
+Bacteria	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadetes	2466.0	2893.0	3750.0	4862.0	299.0
+Bacteria	Gemmatimonadetes	NA	NA	4314.0	4327.0	5051.0	6716.0	280.0
+Bacteria	Ignavibacteriae	Ignavibacteriales	Ignavibacteria	39.0	69.0	125.0	185.0	177.0
+Bacteria	Ignavibacteriae	NA	Ignavibacteria	553.0	748.0	770.0	1177.0	1469.0
+Bacteria	Kiritimatiellaeota	Kiritimatiellales	Kiritimatiellae	22.0	25.0	28.0	41.0	24.0
+Bacteria	Lentisphaerae	Lentisphaerales	Lentisphaeria	9.0	10.0	7.0	13.0	11.0
+Bacteria	Lentisphaerae	NA	NA	335.0	496.0	486.0	631.0	1163.0
+Bacteria	NA	Haloplasmatales	NA	1.0	2.0	0	8.0	5.0
+Bacteria	NA	NA	NA	12735.0	13557.0	19021.0	42318.0	34449.0
+Bacteria	Nitrospinae	NA	NA	58.0	49.0	85.0	75.0	57.0
+Bacteria	Nitrospinae	Nitrospinales	Nitrospinia	29.0	33.0	30.0	31.0	17.0
+Bacteria	Nitrospirae	NA	NA	1408.0	1415.0	1696.0	2815.0	448.0
+Bacteria	Nitrospirae	NA	Nitrospira	41.0	50.0	74.0	105.0	165.0
+Bacteria	Nitrospirae	Nitrospirales	Nitrospira	1612.0	1956.0	2298.0	3903.0	202.0
+Bacteria	Planctomycetes	Candidatus Brocadiales	Planctomycetia	96.0	159.0	174.0	185.0	152.0
+Bacteria	Planctomycetes	NA	NA	663.0	797.0	756.0	1080.0	1219.0
+Bacteria	Planctomycetes	NA	Phycisphaerae	160.0	154.0	207.0	243.0	601.0
+Bacteria	Planctomycetes	NA	Planctomycetia	1.0	0	0	0	0
+Bacteria	Planctomycetes	Phycisphaerales	Phycisphaerae	60.0	49.0	75.0	71.0	70.0
+Bacteria	Planctomycetes	Planctomycetales	Planctomycetia	2481.0	2397.0	3624.0	3907.0	706.0
+Bacteria	Proteobacteria	Acidiferrobacterales	Gammaproteobacteria	78.0	88.0	118.0	87.0	27.0
+Bacteria	Proteobacteria	Acidithiobacillales	Acidithiobacillia	74.0	123.0	130.0	145.0	34.0
+Bacteria	Proteobacteria	Aeromonadales	Gammaproteobacteria	35.0	49.0	91.0	59.0	67.0
+Bacteria	Proteobacteria	Alteromonadales	Gammaproteobacteria	382.0	352.0	600.0	555.0	443.0
+Bacteria	Proteobacteria	Bdellovibrionales	Deltaproteobacteria	261.0	432.0	646.0	1201.0	146.0
+Bacteria	Proteobacteria	Burkholderiales	Betaproteobacteria	9168.0	24772.0	22143.0	10175.0	68789.0
+Bacteria	Proteobacteria	Campylobacterales	Epsilonproteobacteria	94.0	110.0	170.0	215.0	182.0
+Bacteria	Proteobacteria	Cardiobacteriales	Gammaproteobacteria	5.0	10.0	20.0	9.0	3.0
+Bacteria	Proteobacteria	Caulobacterales	Alphaproteobacteria	411.0	236.0	632.0	358.0	116.0
+Bacteria	Proteobacteria	Cellvibrionales	Gammaproteobacteria	139.0	177.0	251.0	303.0	670.0
+Bacteria	Proteobacteria	Chromatiales	Gammaproteobacteria	721.0	632.0	1095.0	1568.0	824.0
+Bacteria	Proteobacteria	Desulfarculales	Deltaproteobacteria	23.0	31.0	36.0	38.0	49.0
+Bacteria	Proteobacteria	Desulfobacterales	Deltaproteobacteria	671.0	673.0	1134.0	1193.0	1821.0
+Bacteria	Proteobacteria	Desulfovibrionales	Deltaproteobacteria	355.0	341.0	598.0	568.0	618.0
+Bacteria	Proteobacteria	Desulfurellales	Deltaproteobacteria	11.0	23.0	16.0	36.0	31.0
+Bacteria	Proteobacteria	Desulfuromonadales	Deltaproteobacteria	737.0	1797.0	7280.0	5377.0	6440.0
+Bacteria	Proteobacteria	Enterobacterales	Gammaproteobacteria	53579.0	42124.0	70988.0	223014.0	183019.0
+Bacteria	Proteobacteria	Ferrovales	Betaproteobacteria	81.0	58.0	192.0	66.0	56.0
+Bacteria	Proteobacteria	Gallionellales	Betaproteobacteria	1160.0	752.0	3783.0	4238.0	1696.0
+Bacteria	Proteobacteria	Holosporales	Alphaproteobacteria	38.0	44.0	138.0	128.0	203.0
+Bacteria	Proteobacteria	Hydrogenophilales	Betaproteobacteria	261.0	256.0	434.0	300.0	198.0
+Bacteria	Proteobacteria	Immundisolibacterales	Gammaproteobacteria	6.0	22.0	26.0	22.0	0
+Bacteria	Proteobacteria	Kiloniellales	Alphaproteobacteria	26.0	12.0	20.0	28.0	13.0
+Bacteria	Proteobacteria	Kordiimonadales	Alphaproteobacteria	20.0	23.0	30.0	22.0	3.0
+Bacteria	Proteobacteria	Legionellales	Gammaproteobacteria	241.0	261.0	415.0	556.0	392.0
+Bacteria	Proteobacteria	Magnetococcales	Alphaproteobacteria	19.0	16.0	22.0	32.0	6.0
+Bacteria	Proteobacteria	Mariprofundales	Zetaproteobacteria	11.0	11.0	18.0	14.0	18.0
+Bacteria	Proteobacteria	Methylococcales	Gammaproteobacteria	1153.0	692.0	2906.0	640.0	476.0
+Bacteria	Proteobacteria	Methylophilales	Betaproteobacteria	232.0	241.0	738.0	359.0	1115.0
+Bacteria	Proteobacteria	Micropepsales	Alphaproteobacteria	33.0	26.0	30.0	42.0	2.0
+Bacteria	Proteobacteria	Myxococcales	Deltaproteobacteria	1756.0	2069.0	2080.0	2473.0	11086.0
+Bacteria	Proteobacteria	NA	Alphaproteobacteria	2092.0	1308.0	2551.0	2029.0	223.0
+Bacteria	Proteobacteria	NA	Betaproteobacteria	10518.0	8921.0	20562.0	10121.0	2921.0
+Bacteria	Proteobacteria	NA	Candidatus Lambdaproteobacteria	8.0	10.0	32.0	7.0	37.0
+Bacteria	Proteobacteria	NA	Candidatus Muproteobacteria	124.0	121.0	222.0	149.0	52.0
+Bacteria	Proteobacteria	NA	Deltaproteobacteria	5045.0	2942.0	5091.0	4077.0	3788.0
+Bacteria	Proteobacteria	NA	Epsilonproteobacteria	10.0	20.0	21.0	41.0	72.0
+Bacteria	Proteobacteria	NA	Gammaproteobacteria	4407.0	3794.0	6544.0	18046.0	14441.0
+Bacteria	Proteobacteria	NA	NA	4466.0	4414.0	6835.0	20719.0	16931.0
+Bacteria	Proteobacteria	NA	Zetaproteobacteria	21.0	33.0	39.0	46.0	49.0
+Bacteria	Proteobacteria	Nautiliales	Epsilonproteobacteria	6.0	9.0	6.0	7.0	4.0
+Bacteria	Proteobacteria	Neisseriales	Betaproteobacteria	382.0	434.0	764.0	475.0	239.0
+Bacteria	Proteobacteria	Nevskiales	Gammaproteobacteria	133.0	148.0	219.0	208.0	94.0
+Bacteria	Proteobacteria	Nitrosomonadales	Betaproteobacteria	1179.0	909.0	1683.0	972.0	553.0
+Bacteria	Proteobacteria	Oceanospirillales	Gammaproteobacteria	361.0	360.0	550.0	538.0	286.0
+Bacteria	Proteobacteria	Orbales	Gammaproteobacteria	14.0	9.0	26.0	93.0	53.0
+Bacteria	Proteobacteria	Parvularculales	Alphaproteobacteria	9.0	7.0	43.0	4.0	0
+Bacteria	Proteobacteria	Pasteurellales	Gammaproteobacteria	8407.0	6063.0	12679.0	41160.0	34950.0
+Bacteria	Proteobacteria	Pelagibacterales	Alphaproteobacteria	23.0	23.0	35.0	47.0	24.0
+Bacteria	Proteobacteria	Pseudomonadales	Gammaproteobacteria	1436.0	1407.0	2279.0	1662.0	1233.0
+Bacteria	Proteobacteria	Rhizobiales	Alphaproteobacteria	10243.0	6969.0	15915.0	12672.0	27867.0
+Bacteria	Proteobacteria	Rhodobacterales	Alphaproteobacteria	1453.0	1999.0	2238.0	1978.0	453.0
+Bacteria	Proteobacteria	Rhodocyclales	Betaproteobacteria	855.0	981.0	2366.0	1506.0	1305.0
+Bacteria	Proteobacteria	Rhodospirillales	Alphaproteobacteria	3386.0	2979.0	5731.0	4732.0	2093.0
+Bacteria	Proteobacteria	Rickettsiales	Alphaproteobacteria	257.0	239.0	402.0	706.0	749.0
+Bacteria	Proteobacteria	Salinisphaerales	Gammaproteobacteria	5.0	19.0	17.0	21.0	10.0
+Bacteria	Proteobacteria	Sneathiellales	Alphaproteobacteria	35.0	20.0	59.0	29.0	1.0
+Bacteria	Proteobacteria	Sphingomonadales	Alphaproteobacteria	688.0	678.0	1052.0	915.0	314.0
+Bacteria	Proteobacteria	Sulfuricellales	Betaproteobacteria	89.0	121.0	338.0	154.0	98.0
+Bacteria	Proteobacteria	Syntrophobacterales	Deltaproteobacteria	346.0	275.0	709.0	1129.0	7084.0
+Bacteria	Proteobacteria	Thiotrichales	Gammaproteobacteria	279.0	248.0	429.0	400.0	175.0
+Bacteria	Proteobacteria	Vibrionales	Gammaproteobacteria	1230.0	900.0	1843.0	7225.0	3470.0
+Bacteria	Proteobacteria	Xanthomonadales	Gammaproteobacteria	815.0	909.0	1094.0	1248.0	500.0
+Bacteria	Spirochaetes	Brachyspirales	Spirochaetia	8.0	18.0	6.0	8.0	13.0
+Bacteria	Spirochaetes	NA	NA	73.0	125.0	142.0	216.0	425.0
+Bacteria	Spirochaetes	NA	Spirochaetia	57.0	57.0	117.0	139.0	113.0
+Bacteria	Spirochaetes	Spirochaetales	Spirochaetia	117.0	150.0	204.0	206.0	543.0
+Bacteria	Synergistetes	Synergistales	Synergistia	76.0	65.0	114.0	110.0	270.0
+Bacteria	Tenericutes	Acholeplasmatales	Mollicutes	6.0	15.0	21.0	20.0	27.0
+Bacteria	Tenericutes	Entomoplasmatales	Mollicutes	10.0	12.0	14.0	4.0	23.0
+Bacteria	Tenericutes	Mycoplasmatales	Mollicutes	21.0	26.0	33.0	24.0	35.0
+Bacteria	Tenericutes	NA	Mollicutes	4.0	0	0	0	0
+Bacteria	Tenericutes	NA	NA	3.0	8.0	3.0	15.0	51.0
+Bacteria	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteria	47.0	40.0	25.0	52.0	54.0
+Bacteria	Thermotogae	Kosmotogales	Thermotogae	23.0	7.0	13.0	4.0	18.0
+Bacteria	Thermotogae	Mesoaciditogales	Thermotogae	1.0	2.0	2.0	3.0	30.0
+Bacteria	Thermotogae	Petrotogales	Thermotogae	12.0	17.0	15.0	28.0	225.0
+Bacteria	Thermotogae	Thermotogales	Thermotogae	68.0	57.0	117.0	112.0	169.0
+Bacteria	Verrucomicrobia	Chthoniobacterales	Spartobacteria	462.0	380.0	712.0	516.0	105.0
+Bacteria	Verrucomicrobia	Methylacidiphilales	Methylacidiphilae	23.0	31.0	45.0	38.0	13.0
+Bacteria	Verrucomicrobia	NA	NA	4238.0	1257.0	2503.0	2559.0	491.0
+Bacteria	Verrucomicrobia	NA	Opitutae	2.0	4.0	0	6.0	6.0
+Bacteria	Verrucomicrobia	NA	Spartobacteria	45.0	51.0	75.0	53.0	28.0
+Bacteria	Verrucomicrobia	Opitutales	Opitutae	709.0	928.0	1858.0	1263.0	489.0
+Bacteria	Verrucomicrobia	Puniceicoccales	Opitutae	6.0	15.0	18.0	27.0	17.0
+Bacteria	Verrucomicrobia	Verrucomicrobiales	Verrucomicrobiae	2133.0	2381.0	4203.0	3242.0	749.0
+Bacteria	candidate division CPR1	NA	NA	5.0	3.0	5.0	1.0	6.0
+Bacteria	candidate division CPR2	NA	NA	1.0	6.0	10.0	7.0	36.0
+Bacteria	candidate division CPR3	NA	NA	3.0	3.0	1.0	6.0	8.0
+Bacteria	candidate division Hyd24-12	NA	NA	2.0	11.0	2.0	8.0	10.0
+Bacteria	candidate division KD3-62	NA	NA	8.0	13.0	7.0	8.0	35.0
+Bacteria	candidate division NC10	NA	NA	307.0	184.0	288.0	261.0	174.0
+Bacteria	candidate division WOR-3	NA	NA	12.0	7.0	15.0	22.0	50.0
+Bacteria	candidate division WWE3	NA	NA	36.0	25.0	38.0	32.0	65.0
+Bacteria	candidate division Zixibacteria	NA	NA	147.0	134.0	264.0	203.0	163.0
+Eukaryota	Apicomplexa	Eucoccidiorida	Coccidia	51.0	44.0	437.0	50.0	103.0
+Eukaryota	Apicomplexa	Eugregarinorida	Gregarinasina	3.0	7.0	24.0	5.0	30.0
+Eukaryota	Apicomplexa	Haemosporida	Aconoidasida	248.0	1435.0	1531.0	355.0	428.0
+Eukaryota	Apicomplexa	NA	Aconoidasida	63.0	19.0	356.0	42.0	277.0
+Eukaryota	Ascomycota	Botryosphaeriales	Dothideomycetes	10.0	5.0	15.0	4.0	4.0
+Eukaryota	Ascomycota	Capnodiales	Dothideomycetes	62.0	97.0	920.0	79.0	137.0
+Eukaryota	Ascomycota	Chaetothyriales	Eurotiomycetes	31.0	19.0	167.0	28.0	18.0
+Eukaryota	Ascomycota	Diaporthales	Sordariomycetes	5.0	0	25.0	5.0	16.0
+Eukaryota	Ascomycota	Dothideales	Dothideomycetes	3.0	10.0	19.0	7.0	0
+Eukaryota	Ascomycota	Erysiphales	Leotiomycetes	9.0	1.0	59.0	3.0	1.0
+Eukaryota	Ascomycota	Eurotiales	Eurotiomycetes	1815.0	862.0	13596.0	1047.0	174.0
+Eukaryota	Ascomycota	Glomerellales	Sordariomycetes	9.0	7.0	107.0	6.0	5.0
+Eukaryota	Ascomycota	Helotiales	Leotiomycetes	758.0	533.0	7855.0	665.0	53.0
+Eukaryota	Ascomycota	Hypocreales	Sordariomycetes	467.0	90.0	779.0	53.0	328.0
+Eukaryota	Ascomycota	Magnaporthales	Sordariomycetes	4.0	0	32.0	1.0	2.0
+Eukaryota	Ascomycota	Microascales	Sordariomycetes	7.0	2.0	15.0	1.0	16.0
+Eukaryota	Ascomycota	NA	Dothideomycetes	1826.0	560.0	40569.0	632.0	91.0
+Eukaryota	Ascomycota	NA	Eurotiomycetes	3.0	1.0	19.0	3.0	2.0
+Eukaryota	Ascomycota	NA	Leotiomycetes	543.0	700.0	3321.0	147.0	24.0
+Eukaryota	Ascomycota	NA	NA	1735.0	642.0	27068.0	562.0	1253.0
+Eukaryota	Ascomycota	NA	Sordariomycetes	16.0	9.0	58.0	14.0	9.0
+Eukaryota	Ascomycota	Neolectales	Neolectomycetes	12.0	6.0	222.0	8.0	0
+Eukaryota	Ascomycota	Onygenales	Eurotiomycetes	33.0	20.0	286.0	36.0	325.0
+Eukaryota	Ascomycota	Ophiostomatales	Sordariomycetes	3.0	3.0	34.0	6.0	7.0
+Eukaryota	Ascomycota	Orbiliales	Orbiliomycetes	31.0	3.0	68.0	14.0	10.0
+Eukaryota	Ascomycota	Pezizales	Pezizomycetes	11.0	6.0	98.0	4.0	20.0
+Eukaryota	Ascomycota	Phaeomoniellales	Eurotiomycetes	4.0	0	23.0	0	0
+Eukaryota	Ascomycota	Pleosporales	Dothideomycetes	1342.0	298.0	11952.0	182.0	47.0
+Eukaryota	Ascomycota	Pneumocystidales	Pneumocystidomycetes	9.0	9.0	80.0	11.0	27.0
+Eukaryota	Ascomycota	Saccharomycetales	Saccharomycetes	882.0	377.0	11869.0	412.0	386.0
+Eukaryota	Ascomycota	Schizosaccharomycetales	Schizosaccharomycetes	16.0	9.0	85.0	13.0	30.0
+Eukaryota	Ascomycota	Sordariales	Sordariomycetes	528.0	1776.0	7967.0	63.0	33.0
+Eukaryota	Ascomycota	Taphrinales	Taphrinomycetes	7.0	14.0	91.0	18.0	0
+Eukaryota	Ascomycota	Togniniales	Sordariomycetes	2.0	1.0	15.0	0	0
+Eukaryota	Ascomycota	Umbilicariales	Lecanoromycetes	7.0	0	16.0	0	0
+Eukaryota	Ascomycota	Venturiales	Dothideomycetes	2.0	0	14.0	2.0	18.0
+Eukaryota	Ascomycota	Verrucariales	Eurotiomycetes	2.0	1.0	3.0	1.0	0
+Eukaryota	Ascomycota	Xylariales	Sordariomycetes	14.0	44.0	127.0	37.0	6.0
+Eukaryota	Ascomycota	Xylonomycetales	Xylonomycetes	2.0	0	16.0	6.0	0
+Eukaryota	Bacillariophyta	Bacillariales	Bacillariophyceae	99.0	39.0	275.0	32.0	37.0
+Eukaryota	Bacillariophyta	Eupodiscales	Mediophyceae	1.0	0	0	1.0	0
+Eukaryota	Bacillariophyta	Fragilariales	Fragilariophyceae	2.0	0	13.0	1.0	4.0
+Eukaryota	Bacillariophyta	Lithodesmiales	Mediophyceae	1.0	0	1.0	0	0
+Eukaryota	Bacillariophyta	NA	Bacillariophyceae	1.0	1.0	19.0	0	0
+Eukaryota	Bacillariophyta	NA	NA	12.0	4.0	31.0	7.0	4.0
+Eukaryota	Bacillariophyta	Naviculales	Bacillariophyceae	16.0	15.0	162.0	21.0	26.0
+Eukaryota	Bacillariophyta	Thalassiosirales	Coscinodiscophyceae	387.0	171.0	1433.0	219.0	1066.0
+Eukaryota	Basidiomycota	Agaricales	Agaricomycetes	1168.0	303.0	1969.0	238.0	630.0
+Eukaryota	Basidiomycota	Amylocorticiales	Agaricomycetes	7.0	18.0	34.0	1.0	0
+Eukaryota	Basidiomycota	Atheliales	Agaricomycetes	93.0	146.0	335.0	87.0	15.0
+Eukaryota	Basidiomycota	Auriculariales	Agaricomycetes	6.0	2.0	67.0	11.0	2.0
+Eukaryota	Basidiomycota	Boletales	Agaricomycetes	30.0	415.0	391.0	86.0	1655.0
+Eukaryota	Basidiomycota	Cantharellales	Agaricomycetes	25.0	15.0	146.0	16.0	19.0
+Eukaryota	Basidiomycota	Ceraceosorales	Exobasidiomycetes	11.0	5.0	11.0	3.0	4.0
+Eukaryota	Basidiomycota	Corticiales	Agaricomycetes	6.0	4.0	79.0	15.0	3.0
+Eukaryota	Basidiomycota	Cystofilobasidiales	Tremellomycetes	2.0	0	33.0	3.0	11.0
+Eukaryota	Basidiomycota	Dacrymycetales	Dacrymycetes	29.0	11.0	133.0	22.0	12.0
+Eukaryota	Basidiomycota	Geastrales	Agaricomycetes	4.0	1.0	23.0	8.0	0
+Eukaryota	Basidiomycota	Georgefischeriales	Exobasidiomycetes	1.0	4.0	17.0	1.0	11.0
+Eukaryota	Basidiomycota	Gloeophyllales	Agaricomycetes	4.0	3.0	1.0	7.0	0
+Eukaryota	Basidiomycota	Hymenochaetales	Agaricomycetes	4.0	11.0	71.0	17.0	9.0
+Eukaryota	Basidiomycota	Jaapiales	Agaricomycetes	93.0	88.0	1246.0	38.0	7.0
+Eukaryota	Basidiomycota	Leucosporidiales	Microbotryomycetes	1.0	2.0	17.0	5.0	5.0
+Eukaryota	Basidiomycota	Malasseziales	Malasseziomycetes	11.0	13.0	61.0	14.0	27.0
+Eukaryota	Basidiomycota	Microbotryales	Microbotryomycetes	6.0	23.0	17.0	6.0	5.0
+Eukaryota	Basidiomycota	Mixiales	Mixiomycetes	11.0	16.0	84.0	21.0	32.0
+Eukaryota	Basidiomycota	NA	Agaricomycetes	270.0	146.0	2794.0	153.0	222.0
+Eukaryota	Basidiomycota	NA	Exobasidiomycetes	1.0	0	14.0	2.0	0
+Eukaryota	Basidiomycota	NA	Microbotryomycetes	5.0	2.0	4.0	5.0	0
+Eukaryota	Basidiomycota	NA	NA	704.0	101.0	659.0	95.0	33.0
+Eukaryota	Basidiomycota	NA	Tremellomycetes	3.0	0	1.0	0	2.0
+Eukaryota	Basidiomycota	Polyporales	Agaricomycetes	36.0	135.0	332.0	50.0	101.0
+Eukaryota	Basidiomycota	Pucciniales	Pucciniomycetes	567.0	127.0	1865.0	142.0	131.0
+Eukaryota	Basidiomycota	Russulales	Agaricomycetes	21.0	14.0	101.0	2.0	18.0
+Eukaryota	Basidiomycota	Sebacinales	Agaricomycetes	107.0	51.0	143.0	33.0	37.0
+Eukaryota	Basidiomycota	Sporidiobolales	Microbotryomycetes	22.0	29.0	331.0	9.0	3.0
+Eukaryota	Basidiomycota	Tilletiales	Exobasidiomycetes	6.0	2.0	106.0	3.0	2.0
+Eukaryota	Basidiomycota	Trechisporales	Agaricomycetes	12.0	2.0	227.0	4.0	3.0
+Eukaryota	Basidiomycota	Tremellales	Tremellomycetes	66.0	112.0	781.0	59.0	73.0
+Eukaryota	Basidiomycota	Trichosporonales	Tremellomycetes	38.0	3.0	92.0	16.0	3.0
+Eukaryota	Basidiomycota	Ustilaginales	Ustilaginomycetes	10.0	15.0	109.0	17.0	9.0
+Eukaryota	Basidiomycota	Wallemiales	Wallemiomycetes	9.0	5.0	70.0	8.0	2.0
+Eukaryota	Blastocladiomycota	Blastocladiales	Blastocladiomycetes	47.0	43.0	230.0	23.0	36.0
+Eukaryota	Chlorophyta	Bryopsidales	Ulvophyceae	1.0	0	20.0	0	3.0
+Eukaryota	Chlorophyta	Chlamydomonadales	Chlorophyceae	113.0	67.0	563.0	107.0	214.0
+Eukaryota	Chlorophyta	Chlorellales	Trebouxiophyceae	106.0	95.0	469.0	99.0	223.0
+Eukaryota	Chlorophyta	Cladophorales	Ulvophyceae	2.0	0	5.0	0	0
+Eukaryota	Chlorophyta	Dasycladales	Ulvophyceae	1.0	0	1.0	0	1.0
+Eukaryota	Chlorophyta	Mamiellales	Mamiellophyceae	113.0	72.0	575.0	120.0	115.0
+Eukaryota	Chlorophyta	Microthamniales	Trebouxiophyceae	2.0	4.0	48.0	2.0	0
+Eukaryota	Chlorophyta	NA	Mamiellophyceae	1.0	2.0	7.0	0	0
+Eukaryota	Chlorophyta	NA	NA	18.0	9.0	102.0	28.0	40.0
+Eukaryota	Chlorophyta	NA	Trebouxiophyceae	146.0	126.0	1022.0	429.0	231.0
+Eukaryota	Chlorophyta	Pyramimonadales	NA	6.0	0	21.0	2.0	3.0
+Eukaryota	Chlorophyta	Sphaeropleales	Chlorophyceae	29.0	19.0	248.0	16.0	23.0
+Eukaryota	Chlorophyta	Ulotrichales	Ulvophyceae	2.0	0	0	1.0	0
+Eukaryota	Chlorophyta	Ulvales	Ulvophyceae	1.0	5.0	18.0	1.0	5.0
+Eukaryota	Chromerida	NA	NA	38.0	19.0	221.0	41.0	37.0
+Eukaryota	Chytridiomycota	Chytridiales	Chytridiomycetes	155.0	73.0	1621.0	277.0	46.0
+Eukaryota	Chytridiomycota	Monoblepharidales	Monoblepharidomycetes	7.0	23.0	125.0	17.0	28.0
+Eukaryota	Chytridiomycota	NA	Chytridiomycetes	4.0	0	15.0	1.0	0
+Eukaryota	Chytridiomycota	Rhizophydiales	Chytridiomycetes	77.0	78.0	638.0	75.0	71.0
+Eukaryota	Chytridiomycota	Spizellomycetales	Chytridiomycetes	33.0	23.0	157.0	25.0	40.0
+Eukaryota	Colponemidia	NA	NA	2.0	11.0	25.0	4.0	34.0
+Eukaryota	Cryptomycota	NA	NA	21.0	16.0	135.0	8.0	29.0
+Eukaryota	Euglenida	Euglenales	NA	10.0	6.0	39.0	16.0	16.0
+Eukaryota	Euglenida	Heteronematales	NA	1.0	18.0	25.0	1.0	0
+Eukaryota	Eustigmatophyceae	Eustigmatales	NA	29.0	37.0	189.0	40.0	39.0
+Eukaryota	Haplosporidia	NA	NA	1.0	0	1.0	0	0
+Eukaryota	Microsporidia	NA	NA	270.0	250.0	2946.0	449.0	376.0
+Eukaryota	Mucoromycota	Glomerales	Glomeromycetes	33.0	15.0	406.0	42.0	29.0
+Eukaryota	Mucoromycota	Mortierellales	NA	44.0	50.0	571.0	26.0	21.0
+Eukaryota	Mucoromycota	Mucorales	NA	2403.0	1952.0	3819.0	4603.0	5740.0
+Eukaryota	NA	Acrasida	Heterolobosea	1.0	10.0	0	0	3.0
+Eukaryota	NA	Albuginales	Oomycetes	93.0	70.0	335.0	44.0	10.0
+Eukaryota	NA	Arcellinida	NA	5.0	2.0	33.0	0	0
+Eukaryota	NA	Bangiales	Bangiophyceae	43.0	82.0	134.0	9.0	47.0
+Eukaryota	NA	Bicosoecida	NA	4.0	3.0	23.0	5.0	0
+Eukaryota	NA	Ceramiales	Florideophyceae	3.0	6.0	19.0	11.0	5.0
+Eukaryota	NA	Cercomonadida	NA	44.0	25.0	63.0	29.0	5.0
+Eukaryota	NA	Chattonellales	Raphidophyceae	1.0	3.0	11.0	3.0	0
+Eukaryota	NA	Choanoflagellida	NA	125.0	261.0	602.0	79.0	71.0
+Eukaryota	NA	Corallinales	Florideophyceae	9.0	0	9.0	0	0
+Eukaryota	NA	Cryptomonadales	Cryptophyta	3.0	12.0	37.0	9.0	1.0
+Eukaryota	NA	Cyanidiales	Bangiophyceae	74.0	53.0	335.0	30.0	92.0
+Eukaryota	NA	Dictyosteliida	NA	698.0	139.0	3894.0	190.0	208.0
+Eukaryota	NA	Echinosteliales	NA	4.0	0	0	0	0
+Eukaryota	NA	Euglyphida	NA	4.0	10.0	26.0	8.0	2.0
+Eukaryota	NA	Euplotida	Spirotrichea	1.0	6.0	60.0	4.0	41.0
+Eukaryota	NA	Gigartinales	Florideophyceae	28.0	11.0	107.0	26.0	47.0
+Eukaryota	NA	Glaucocystales	Glaucocystophyceae	2.0	1.0	20.0	0	1.0
+Eukaryota	NA	Glissomonadida	NA	2.0	0	6.0	1.0	0
+Eukaryota	NA	Gonyaulacales	Dinophyceae	6.0	0	4.0	0	0
+Eukaryota	NA	Gracilariales	Florideophyceae	10.0	2.0	22.0	0	6.0
+Eukaryota	NA	Gymnodiniales	Dinophyceae	6.0	13.0	199.0	7.0	5.0
+Eukaryota	NA	Haptorida	Litostomatea	1.0	0	10.0	17.0	0
+Eukaryota	NA	Heterotrichida	Heterotrichea	33.0	20.0	333.0	67.0	364.0
+Eukaryota	NA	Himatismenida	NA	6.0	0	6.0	0	0
+Eukaryota	NA	Hymenostomatida	Oligohymenophorea	19.0	52.0	1768.0	308.0	116.0
+Eukaryota	NA	Isochrysidales	NA	57.0	89.0	846.0	151.0	32.0
+Eukaryota	NA	Kinetoplastida	NA	423.0	175.0	4755.0	3282.0	137.0
+Eukaryota	NA	Liceales	NA	1.0	0	7.0	0	1.0
+Eukaryota	NA	Longamoebia	NA	393.0	94.0	2376.0	134.0	105.0
+Eukaryota	NA	Myzocytiopsidales	Oomycetes	1.0	2.0	0	4.0	0
+Eukaryota	NA	NA	Dinophyceae	2.0	3.0	21.0	1.0	4.0
+Eukaryota	NA	NA	Florideophyceae	5.0	18.0	31.0	6.0	4.0
+Eukaryota	NA	NA	Glaucocystophyceae	11.0	5.0	51.0	18.0	24.0
+Eukaryota	NA	NA	Heterolobosea	5.0	24.0	34.0	3.0	0
+Eukaryota	NA	NA	Katablepharidophyta	4.0	0	29.0	0	0
+Eukaryota	NA	NA	Labyrinthulomycetes	7.0	4.0	29.0	5.0	0
+Eukaryota	NA	NA	NA	4295.0	1784.0	21508.0	1959.0	2049.0
+Eukaryota	NA	NA	Oomycetes	7.0	10.0	93.0	9.0	8.0
+Eukaryota	NA	Nemaliales	Florideophyceae	1.0	1.0	5.0	0	0
+Eukaryota	NA	Oxyrrhinales	Dinophyceae	1.0	0	48.0	2.0	1.0
+Eukaryota	NA	Palmariales	Florideophyceae	1.0	1.0	0	0	0
+Eukaryota	NA	Parmales	Synurophyceae	1.0	4.0	6.0	1.0	0
+Eukaryota	NA	Pavlovales	NA	2.0	1.0	8.0	0	0
+Eukaryota	NA	Pelagomonadales	Pelagophyceae	23.0	18.0	228.0	36.0	89.0
+Eukaryota	NA	Peniculida	Oligohymenophorea	16.0	22.0	952.0	170.0	135.0
+Eukaryota	NA	Peridiniales	Dinophyceae	14.0	0	42.0	2.0	0
+Eukaryota	NA	Perkinsida	NA	114.0	25.0	237.0	65.0	134.0
+Eukaryota	NA	Peronosporales	Oomycetes	997.0	1419.0	4005.0	1118.0	295.0
+Eukaryota	NA	Philasterida	Oligohymenophorea	4.0	48.0	818.0	139.0	57.0
+Eukaryota	NA	Physariida	NA	44.0	4.0	364.0	13.0	12.0
+Eukaryota	NA	Prorocentrales	Dinophyceae	1.0	0	5.0	2.0	0
+Eukaryota	NA	Protosteliales	NA	54.0	11.0	118.0	4.0	5.0
+Eukaryota	NA	Prymnesiales	NA	30.0	10.0	135.0	21.0	25.0
+Eukaryota	NA	Pyrenomonadales	Cryptophyta	129.0	52.0	1062.0	70.0	87.0
+Eukaryota	NA	Pythiales	Oomycetes	2.0	3.0	5.0	2.0	1.0
+Eukaryota	NA	Rhodochaetales	Compsopogonophyceae	3.0	0	0	1.0	0
+Eukaryota	NA	Saprolegniales	Oomycetes	101.0	70.0	441.0	62.0	34.0
+Eukaryota	NA	Schizopyrenida	Heterolobosea	65.0	117.0	347.0	182.0	40.0
+Eukaryota	NA	Slopalinida	NA	1.0	0	1.0	4.0	29.0
+Eukaryota	NA	Sporadotrichida	Spirotrichea	135.0	1515.0	22564.0	1492.0	4923.0
+Eukaryota	NA	Sticholonchida	NA	35.0	7.0	50.0	14.0	0
+Eukaryota	NA	Suessiales	Dinophyceae	22.0	14.0	216.0	41.0	25.0
+Eukaryota	NA	Synurales	Synurophyceae	1.0	8.0	12.0	2.0	4.0
+Eukaryota	NA	Thaumatomonadida	NA	3.0	11.0	84.0	8.0	9.0
+Eukaryota	NA	Trichomonadida	NA	6.0	5.0	47.0	3.0	7.0
+Eukaryota	NA	Tritrichomonadida	NA	6.0	5.0	14.0	5.0	13.0
+Eukaryota	NA	Vampyrellida	NA	12.0	0	159.0	1.0	0
+Eukaryota	Neocallimastigomycota	Neocallimastigales	Neocallimastigomycetes	888.0	404.0	2952.0	435.0	140.0
+Eukaryota	Phaeophyceae	Dictyotales	NA	1.0	0	0	5.0	0
+Eukaryota	Phaeophyceae	Ectocarpales	NA	221.0	379.0	3342.0	665.0	2548.0
+Eukaryota	Phaeophyceae	Laminariales	NA	2.0	0	2.0	3.0	6.0
+Eukaryota	Xanthophyceae	Vaucheriales	NA	1.0	0	12.0	2.0	0
+Eukaryota	Zoopagomycota	Basidiobolales	Basidiobolomycetes	86.0	21.0	192.0	25.0	18.0
+Eukaryota	Zoopagomycota	Entomophthorales	Entomophthoromycetes	19.0	18.0	263.0	19.0	13.0
+Eukaryota	Zoopagomycota	Harpellales	NA	39.0	25.0	199.0	18.0	52.0
+Eukaryota	Zoopagomycota	Kickxellales	NA	14.0	5.0	305.0	11.0	14.0
+Eukaryota	Zoopagomycota	NA	NA	3.0	0	23.0	1.0	4.0
+NA	NA	NA	NA	1473.0	933.0	3126.0	4103.0	3088.0
+Viruses	NA	Bunyavirales	NA	2.0	0	8.0	0	0
+Viruses	NA	Caudovirales	NA	6.0	14.0	1.0	30.0	32.0
+Viruses	NA	NA	NA	266.0	219.0	313.0	1942.0	434.0
+Archaea	Candidatus Aenigmarchaeota	NA	NA	0	1.0	0	1.0	1.0
+Archaea	Candidatus Parvarchaeota	NA	NA	0	2.0	1.0	2.0	1.0
+Archaea	Euryarchaeota	NA	Candidatus Thalassoarchaea	0	4.0	0	2.0	1.0
+Archaea	Thaumarchaeota	Candidatus Nitrosocaldales	Nitrososphaeria	0	3.0	0	0	0
+Bacteria	Candidatus Andersenbacteria	NA	NA	0	4.0	11.0	12.0	0
+Bacteria	Candidatus Peregrinibacteria	Candidatus Peribacterales	Candidatus Peribacteria	0	1.0	0	0	0
+Bacteria	Candidatus Tagabacteria	NA	NA	0	2.0	0	3.0	2.0
+Bacteria	Chloroflexi	NA	Chloroflexia	0	2.0	1.0	2.0	0
+Bacteria	Deinococcus-Thermus	NA	NA	0	1.0	0	0	0
+Bacteria	Fusobacteria	NA	Fusobacteriia	0	2.0	2.0	7.0	9.0
+Bacteria	Spirochaetes	Brevinematales	Spirochaetia	0	4.0	0	1.0	0
+Bacteria	Thermotogae	NA	Thermotogae	0	2.0	0	1.0	1.0
+Eukaryota	Ascomycota	Coniochaetales	Sordariomycetes	0	1.0	8.0	3.0	13.0
+Eukaryota	Ascomycota	Mytilinidiales	Dothideomycetes	0	3.0	48.0	2.0	0
+Eukaryota	Ascomycota	Trapeliales	Lecanoromycetes	0	2.0	0	0	0
+Eukaryota	Bacillariophyta	Melosirales	Coscinodiscophyceae	0	4.0	0	0	0
+Eukaryota	Basidiomycota	Thelephorales	Agaricomycetes	0	8.0	1.0	0	0
+Eukaryota	Bolidophyceae	NA	NA	0	2.0	9.0	0	0
+Eukaryota	Chlorophyta	Dolichomastigales	Mamiellophyceae	0	4.0	0	0	0
+Eukaryota	Chlorophyta	Monomastigales	Mamiellophyceae	0	1.0	1.0	2.0	0
+Eukaryota	Chlorophyta	NA	Chlorophyceae	0	9.0	14.0	1.0	3.0
+Eukaryota	Chlorophyta	NA	Nephroselmidophyceae	0	1.0	1.0	0	0
+Eukaryota	Chlorophyta	Prasinococcales	NA	0	3.0	7.0	0	0
+Eukaryota	Chytridiomycota	Cladochytriales	Chytridiomycetes	0	1.0	12.0	0	0
+Eukaryota	NA	Armophorida	Armophorea	0	2.0	29.0	3.0	398.0
+Eukaryota	NA	Chromulinales	Chrysophyceae	0	2.0	10.0	1.0	0
+Eukaryota	NA	Dinophysiales	Dinophyceae	0	1.0	1.0	0	0
+Eukaryota	NA	Gelidiales	Florideophyceae	0	4.0	0	0	0
+Eukaryota	NA	Gloeochaetales	Glaucocystophyceae	0	1.0	0	0	0
+Eukaryota	NA	Halymeniales	Florideophyceae	0	4.0	2.0	0	0
+Eukaryota	NA	NA	Compsopogonophyceae	0	4.0	0	0	0
+Eukaryota	NA	NA	Cryptophyta	0	6.0	7.0	1.0	3.0
+Eukaryota	NA	NA	Oligohymenophorea	0	6.0	241.0	34.0	12.0
+Eukaryota	NA	NA	Spirotrichea	0	24.0	8.0	10.0	20.0
+Eukaryota	NA	Nemastomatales	Florideophyceae	0	1.0	0	0	0
+Eukaryota	NA	Plocamiales	Florideophyceae	0	1.0	0	0	0
+Eukaryota	NA	Porphyridiales	Bangiophyceae	0	1.0	0	0	0
+Eukaryota	NA	Sessilida	Oligohymenophorea	0	6.0	5.0	0	2.0
+Eukaryota	NA	Stemonitida	NA	0	2.0	9.0	3.0	0
+Eukaryota	NA	Stichotrichida	Spirotrichea	0	1.0	0	0	0
+Eukaryota	NA	Thoreales	Florideophyceae	0	1.0	0	0	0
+Eukaryota	NA	Urostylida	Spirotrichea	0	18.0	16.0	8.0	0
+Eukaryota	Phaeophyceae	Fucales	NA	0	1.0	8.0	1.0	0
+Eukaryota	Phaeophyceae	NA	NA	0	2.0	14.0	0	0
+Eukaryota	Xanthophyceae	Mischococcales	NA	0	2.0	0	0	0
+Eukaryota	Xanthophyceae	Tribonematales	NA	0	1.0	0	0	0
+Viruses	NA	Picornavirales	NA	0	3.0	0	0	0
+Viruses	NA	Tymovirales	NA	0	1.0	0	0	0
+Archaea	Candidatus Korarchaeota	NA	NA	0	0	7.0	2.0	9.0
+Archaea	Crenarchaeota	Fervidicoccales	Thermoprotei	0	0	1.0	0	0
+Bacteria	Candidatus Jacksonbacteria	NA	NA	0	0	4.0	0	3.0
+Eukaryota	Apicomplexa	NA	NA	0	0	13.0	3.0	0
+Eukaryota	Ascomycota	Peltigerales	Lecanoromycetes	0	0	1.0	0	0
+Eukaryota	Ascomycota	Pertusariales	Lecanoromycetes	0	0	1.0	0	0
+Eukaryota	Bacillariophyta	Cymbellales	Bacillariophyceae	0	0	2.0	0	0
+Eukaryota	Basidiomycota	Agaricostilbales	Agaricostilbomycetes	0	0	1.0	0	0
+Eukaryota	Basidiomycota	Exobasidiales	Exobasidiomycetes	0	0	3.0	0	0
+Eukaryota	Basidiomycota	Kriegeriales	Microbotryomycetes	0	0	1.0	0	3.0
+Eukaryota	Chlorophyta	Chlorosarcinales	Chlorophyceae	0	0	6.0	0	0
+Eukaryota	Chlorophyta	Ignatiales	Ulvophyceae	0	0	1.0	0	0
+Eukaryota	Chlorophyta	NA	Ulvophyceae	0	0	16.0	0	0
+Eukaryota	Chlorophyta	Palmophyllales	NA	0	0	1.0	1.0	0
+Eukaryota	Chlorophyta	Pedinomonadales	Pedinophyceae	0	0	1.0	1.0	0
+Eukaryota	Chlorophyta	Prasiolales	Trebouxiophyceae	0	0	1.0	0	0
+Eukaryota	Chlorophyta	Scotinosphaerales	Ulvophyceae	0	0	1.0	0	0
+Eukaryota	Chytridiomycota	NA	NA	0	0	13.0	0	0
+Eukaryota	Euglenida	Eutreptiales	NA	0	0	1.0	0	1.0
+Eukaryota	Euglenida	Sphenomonadales	NA	0	0	4.0	0	0
+Eukaryota	Eustigmatophyceae	Goniochloridales	NA	0	0	3.0	0	0
+Eukaryota	Mucoromycota	NA	NA	0	0	6.0	2.0	0
+Eukaryota	NA	Batrachospermales	Florideophyceae	0	0	6.0	1.0	0
+Eukaryota	NA	Bonnemaisoniales	Florideophyceae	0	0	1.0	2.0	0
+Eukaryota	NA	Bursariomorphida	Colpodea	0	0	4.0	2.0	0
+Eukaryota	NA	Coccolithales	NA	0	0	1.0	0	0
+Eukaryota	NA	Collodaria	Polycystinea	0	0	1.0	0	0
+Eukaryota	NA	Colpodida	Colpodea	0	0	359.0	11.0	0
+Eukaryota	NA	Cryomonadida	NA	0	0	1.0	0	0
+Eukaryota	NA	Cyrtolophosidida	Colpodea	0	0	8.0	0	0
+Eukaryota	NA	Cyrtophorida	Phyllopharyngea	0	0	13.0	2.0	0
+Eukaryota	NA	Diplonemida	NA	0	0	5.0	5.0	0
+Eukaryota	NA	Glaucosphaerales	Rhodellophyceae	0	0	1.0	0	0
+Eukaryota	NA	Lagenidiales	Oomycetes	0	0	1.0	0	0
+Eukaryota	NA	Leptomitales	Oomycetes	0	0	1.0	0	0
+Eukaryota	NA	Leptomyxida	NA	0	0	4.0	0	0
+Eukaryota	NA	Loxodida	Karyorelictea	0	0	3.0	2.0	0
+Eukaryota	NA	Microthoracida	Nassophorea	0	0	1.0	0	0
+Eukaryota	NA	Miliolida	NA	0	0	3.0	0	0
+Eukaryota	NA	NA	Chrysophyceae	0	0	1.0	0	0
+Eukaryota	NA	NA	Litostomatea	0	0	8.0	25.0	0
+Eukaryota	NA	NA	Raphidophyceae	0	0	1.0	0	0
+Eukaryota	NA	Nassellaria	Polycystinea	0	0	3.0	0	0
+Eukaryota	NA	Nassulida	Nassophorea	0	0	69.0	0	0
+Eukaryota	NA	Ochromonadales	Synurophyceae	0	0	1.0	0	0
+Eukaryota	NA	Olpidiopsidales	Oomycetes	0	0	7.0	0	0
+Eukaryota	NA	Plagiopylida	Plagiopylea	0	0	4.0	7.0	0
+Eukaryota	NA	Pleuronematida	Oligohymenophorea	0	0	9.0	6.0	0
+Eukaryota	NA	Prorodontida	Prostomatea	0	0	40.0	0	4.0
+Eukaryota	NA	Protostomatida	Karyorelictea	0	0	6.0	3.0	0
+Eukaryota	NA	Pseudoamphisiellida	Spirotrichea	0	0	1.0	0	6.0
+Eukaryota	NA	Pyrocystales	Dinophyceae	0	0	5.0	0	0
+Eukaryota	NA	Rhodymeniales	Florideophyceae	0	0	12.0	0	2.0
+Eukaryota	NA	Rigifilida	NA	0	0	2.0	0	0
+Eukaryota	NA	Rotaliida	NA	0	0	6.0	1.0	5.0
+Eukaryota	NA	Sebdeniales	Florideophyceae	0	0	1.0	0	0
+Eukaryota	NA	Sorogenida	Colpodea	0	0	22.0	1.0	0
+Eukaryota	NA	Spirotrichonymphida	NA	0	0	3.0	1.0	0
+Eukaryota	NA	Spumellaria	Polycystinea	0	0	5.0	0	0
+Eukaryota	NA	Syracosphaerales	NA	0	0	2.0	0	0
+Eukaryota	NA	Tintinnida	Spirotrichea	0	0	1.0	0	3.0
+Eukaryota	NA	Vestibuliferida	Litostomatea	0	0	1.0	0	0
+Eukaryota	Phaeophyceae	Sphacelariales	NA	0	0	1.0	0	0
+Eukaryota	Xanthophyceae	Botrydiales	NA	0	0	1.0	0	0
+Eukaryota	Chlorophyta	NA	Pedinophyceae	0	0	0	1.0	0
+Eukaryota	Euglenida	NA	NA	0	0	0	2.0	0
+Eukaryota	Eustigmatophyceae	NA	NA	0	0	0	1.0	0
+Eukaryota	NA	Chlamydodontida	Phyllopharyngea	0	0	0	2.0	0
+Eukaryota	NA	Cristamonadida	NA	0	0	0	3.0	0
+Eukaryota	NA	Entodiniomorphida	Litostomatea	0	0	0	4.0	3.0
+Eukaryota	NA	Hildenbrandiales	Florideophyceae	0	0	0	2.0	1.0
+Eukaryota	NA	NA	Actinophryidae	0	0	0	1.0	0
+Eukaryota	NA	Phaeocystales	NA	0	0	0	2.0	1.0
+Eukaryota	NA	Synhymeniida	Nassophorea	0	0	0	2.0	0
+Eukaryota	Pinguiophyceae	Pinguiochrysidales	NA	0	0	0	2.0	0
+Eukaryota	Chlorophyta	Chaetophorales	Chlorophyceae	0	0	0	0	1.0
+Eukaryota	NA	Noctilucales	Dinophyceae	0	0	0	0	9.0
+Eukaryota	NA	Trichonymphida	NA	0	0	0	0	14.0
