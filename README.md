@@ -1,10 +1,10 @@
 # relatively
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/brwnj/relatively/master?filepath=notebooks%2Fexample.ipynb)
-
 Handles parsing of hierarchy-associated quantities to generate a single plot
 object (a Plotly figure) with a subplot of counts and one for relative
 abundance.
+
+Interactive example available at [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/brwnj/relatively/master?filepath=notebooks%2Fexample.ipynb)
 
 # Install
 
