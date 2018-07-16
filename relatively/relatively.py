@@ -143,11 +143,14 @@ def get_dfs_across_hierarchy(
     dfs = dict()
     sample_order = None
     for i, lvl in enumerate(hierarchy):
-        if i == 0 and reorder:
+        if i == 0:
             # calculates diversity using most specific assignment
             t = df.groupby(hierarchy).sum().reset_index()
-            sample_order = t[value_cols].apply(lambda x: diversity(x, index=reorder))
-            sample_order = sample_order.sort_values(ascending=False).keys().tolist()
+            if reorder:
+                sample_order = t[value_cols].apply(lambda x: diversity(x, index=reorder))
+                sample_order = sample_order.sort_values(ascending=False).keys().tolist()
+            else:
+                sample_order = value_cols
         # treat each level of the hierarchy as dependent upon the previous
         if dependent and i > 0:
             dep_lvl = dependent.join(hierarchy[: i + 1])
