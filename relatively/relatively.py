@@ -147,7 +147,9 @@ def get_dfs_across_hierarchy(
             # calculates diversity using most specific assignment
             t = df.groupby(hierarchy).sum().reset_index()
             if reorder:
-                sample_order = t[value_cols].apply(lambda x: diversity(x, index=reorder))
+                sample_order = t[value_cols].apply(
+                    lambda x: diversity(x, index=reorder)
+                )
                 sample_order = sample_order.sort_values(ascending=False).keys().tolist()
             else:
                 sample_order = value_cols
@@ -192,7 +194,13 @@ def get_dfs_across_hierarchy(
 
 
 def get_abundance_figure_from_dfs(
-    dfs, hierarchy, title=None, colors=None, height=700, showlegend=False
+    dfs,
+    hierarchy,
+    title=None,
+    colors=None,
+    height=700,
+    showlegend=False,
+    hoverinfo="text+y",
 ):
     if not isinstance(colors, list):
         colors = None
@@ -220,7 +228,7 @@ def get_abundance_figure_from_dfs(
                     y=table[col],
                     name=col,
                     text=col,
-                    hoverinfo="text+y",
+                    hoverinfo=hoverinfo,
                     # always start showing the first level
                     visible=True if i == 0 else False,
                     marker=dict(color=colors[k % colors_len]),
@@ -290,6 +298,7 @@ def abundance_figure(
     height=700,
     colors=None,
     dependent=None,
+    hoverinfo="text+y",
 ):
     """
     Convenience function to carry out each step and build a figure from an input table.
@@ -298,11 +307,35 @@ def abundance_figure(
     dfs = get_dfs_across_hierarchy(
         df, hierarchy, value_cols, percent_cutoff, reorder, dependent
     )
-    fig = get_abundance_figure_from_dfs(dfs, hierarchy, title, colors, height)
+    fig = get_abundance_figure_from_dfs(
+        dfs,
+        hierarchy,
+        title=title,
+        colors=colors,
+        height=height,
+        showlegend=False,
+        hoverinfo=hoverinfo,
+    )
     return fig
 
 
-def calculate_diversity(df, hierarchy, value_cols, index):
+def calculate_diversity(
+    df, hierarchy=None, value_cols=None, index=["shannon", "simpson", "invsimpson"]
+):
+    """
+    Calculate diversity across a hierachical level using the values of
+    value_cols.
+
+    Args:
+        df (pandas.DataFrame)
+        hierarchy (Optional[list]): the default is every row (df.index)
+        value_cols (Optional[list]): the default is df.columns, though this
+            assumes all columns have int or float values
+        index (Optional[list]): the diversity indexes to calculate
+
+    Returns:
+        pandas.DataFrame
+    """
     t = df.copy()
     t = t.groupby(hierarchy).sum().reset_index()
     t = t[value_cols].apply(lambda x: diversity(x, index=index))
