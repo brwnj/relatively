@@ -15,12 +15,6 @@ Python >= 3.6.
 pip install relatively
 ```
 
-Depends on, but doesn't define in `setup.py`:
-
-+ `numpy`
-+ `pandas`
-+ `plotly>=3.0.0rc10`
-
 # Usage
 
 ```
