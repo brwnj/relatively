@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="relatively",
-    version="1.0.3",
+    version="1.0.4",
     description="Abundance figure with absolute and relative abundances across a hierarchy",
     url="https://github.com/brwnj/relatively",
     author="Joe Brown",
