@@ -3,7 +3,6 @@ import pandas as pd
 import plotly
 import plotly.graph_objs as go
 from plotly import tools
-from plotly.offline import iplot
 
 
 def diversity(x, index="shannon"):
@@ -218,7 +217,7 @@ def get_abundance_figure_from_dfs(
             "#17becf",
         ]
     colors_len = len(colors)
-    fig = tools.make_subplots(rows=2, cols=1, shared_xaxes=True)
+    fig = tools.make_subplots(rows=2, cols=1, shared_xaxes=True, print_grid=False)
     trace_visibility = list()
     for i, lvl in enumerate(hierarchy):
         for j, table in enumerate(dfs[lvl], start=1):
