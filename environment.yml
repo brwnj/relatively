@@ -9,4 +9,4 @@ dependencies:
     - pip
     - pip:
       - relatively
-      - plotly==3.0.0rc10
+      - plotly>=3.0.0
