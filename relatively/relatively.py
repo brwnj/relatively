@@ -178,7 +178,7 @@ def get_dfs_across_hierarchy(
         # become column labels after transposing
         col_labels = t[lvl].tolist()
         # calculate relative abundances
-        ra_t = t[value_cols].div(t[value_cols].sum())
+        ra_t = t[sample_order].div(t[sample_order].sum())
         ra_t = ra_t * 100
         ra_t = ra_t.transpose()
         ra_t.columns = col_labels
@@ -274,6 +274,7 @@ def get_abundance_figure_from_dfs(
     fig["layout"].update(
         {
             "title": title,
+            "xaxis": {"type": "category"},
             "yaxis": {"title": "Counts"},
             "yaxis2": {"title": "Relative Abundance (%)"},
             "showlegend": showlegend,
