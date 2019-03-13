@@ -85,7 +85,7 @@ def diversity(x, index="shannon"):
 
 
 def preprocess_table(path, hierarchy, value_cols=None):
-    df = pd.read_table(path)
+    df = pd.read_csv(path, sep="\t")
     if not isinstance(hierarchy, list):
         hierarchy = list(hierarchy)
     if not value_cols:
@@ -337,6 +337,8 @@ def calculate_diversity(
         pandas.DataFrame
     """
     t = df.copy()
+    if hierarchy is None:
+        hierarchy = df.index
     t = t.groupby(hierarchy).sum().reset_index()
     t = t[value_cols].apply(lambda x: diversity(x, index=index))
     t = pd.DataFrame(t.values.tolist(), index=t.index, columns=index)
